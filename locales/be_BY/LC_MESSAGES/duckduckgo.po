@@ -7861,7 +7861,7 @@ msgstr "Музыка"
 # smartling.placeholder_format=C
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Muted red"
-msgstr "Прыглушаны зялёны"
+msgstr "Прыглушаны чырвоны"
 
 # smartling.placeholder_format=C
 msgid "Myanmar"
